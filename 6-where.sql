@@ -10,7 +10,7 @@
 -- ORDER BY'ı okur
 
 -- =		equal
--- !=		equal
+-- !=		not equal
 -- <> 		not equal
 -- >		greater than
 -- <		less than
